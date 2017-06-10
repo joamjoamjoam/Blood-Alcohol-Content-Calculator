@@ -7,7 +7,7 @@ Simple tool to evaluate your ability to drive and calculate your Blood Alcohol C
 Features
 
 Calculate current BAC 
-Evaluates your ability to drive by comparing your BAC to the legal limit
+Evaluates your ability to drive by comparing your BAC to the legal limit /n
 Estimates the time you must wait to legally drive
 Estimates the time it will take to reach 0 % BAC
 Internet database of different alcohols and their alcohol contents
