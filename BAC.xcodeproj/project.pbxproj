@@ -1,0 +1,424 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EC40453D17DBCFA70038D95F /* BACBeerButton.m in Sources */ = {isa = PBXBuildFile; fileRef = EC40453C17DBCFA70038D95F /* BACBeerButton.m */; };
+		EC4C8F1F17CBCBCD0028323C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C8F1E17CBCBCD0028323C /* UIKit.framework */; };
+		EC4C8F2117CBCBCD0028323C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C8F2017CBCBCD0028323C /* Foundation.framework */; };
+		EC4C8F2317CBCBCD0028323C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4C8F2217CBCBCD0028323C /* CoreGraphics.framework */; };
+		EC4C8F2917CBCBCD0028323C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EC4C8F2717CBCBCD0028323C /* InfoPlist.strings */; };
+		EC4C8F2B17CBCBCD0028323C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C8F2A17CBCBCD0028323C /* main.m */; };
+		EC4C8F2F17CBCBCD0028323C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C8F2E17CBCBCD0028323C /* AppDelegate.m */; };
+		EC4C8F3117CBCBCD0028323C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4C8F3017CBCBCD0028323C /* Default.png */; };
+		EC4C8F3317CBCBCD0028323C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4C8F3217CBCBCD0028323C /* Default@2x.png */; };
+		EC4C8F3517CBCBCD0028323C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4C8F3417CBCBCD0028323C /* Default-568h@2x.png */; };
+		EC4C8F3817CBCBCD0028323C /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC4C8F3617CBCBCD0028323C /* MainStoryboard.storyboard */; };
+		EC4C8F3B17CBCBCD0028323C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4C8F3A17CBCBCD0028323C /* ViewController.m */; };
+		ECA976F517CC00B10009D844 /* Beer.m in Sources */ = {isa = PBXBuildFile; fileRef = ECA976F417CC00B10009D844 /* Beer.m */; };
+		ECB0D0F217CD458700984499 /* Container.m in Sources */ = {isa = PBXBuildFile; fileRef = ECB0D0F117CD458700984499 /* Container.m */; };
+		ECB0D0F417CD4E1600984499 /* ContainersDescription.plist in Resources */ = {isa = PBXBuildFile; fileRef = ECB0D0F317CD4E1600984499 /* ContainersDescription.plist */; };
+		ECB0D0F617CD502D00984499 /* ContainersVolume.plist in Resources */ = {isa = PBXBuildFile; fileRef = ECB0D0F517CD502D00984499 /* ContainersVolume.plist */; };
+		ECC85E0217CC2E7800AEACFE /* beerglass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ECC85E0117CC2E7800AEACFE /* beerglass.jpg */; };
+		ECC85E0A17CC354000AEACFE /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = ECC85E0517CC354000AEACFE /* TFHpple.m */; };
+		ECC85E0B17CC354000AEACFE /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = ECC85E0717CC354000AEACFE /* TFHppleElement.m */; };
+		ECC85E0C17CC354000AEACFE /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = ECC85E0917CC354000AEACFE /* XPathQuery.m */; };
+		ECC85E0E17CC364100AEACFE /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = ECC85E0D17CC364100AEACFE /* libxml2.dylib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EC40453B17DBCFA70038D95F /* BACBeerButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BACBeerButton.h; sourceTree = "<group>"; };
+		EC40453C17DBCFA70038D95F /* BACBeerButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BACBeerButton.m; sourceTree = "<group>"; };
+		EC4C8F1B17CBCBCD0028323C /* BAC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BAC.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC4C8F1E17CBCBCD0028323C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		EC4C8F2017CBCBCD0028323C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EC4C8F2217CBCBCD0028323C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EC4C8F2617CBCBCD0028323C /* BAC-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BAC-Info.plist"; sourceTree = "<group>"; };
+		EC4C8F2817CBCBCD0028323C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EC4C8F2A17CBCBCD0028323C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EC4C8F2C17CBCBCD0028323C /* BAC-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BAC-Prefix.pch"; sourceTree = "<group>"; };
+		EC4C8F2D17CBCBCD0028323C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EC4C8F2E17CBCBCD0028323C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EC4C8F3017CBCBCD0028323C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		EC4C8F3217CBCBCD0028323C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		EC4C8F3417CBCBCD0028323C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		EC4C8F3717CBCBCD0028323C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		EC4C8F3917CBCBCD0028323C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EC4C8F3A17CBCBCD0028323C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		ECA976F317CC00B10009D844 /* Beer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Beer.h; sourceTree = "<group>"; };
+		ECA976F417CC00B10009D844 /* Beer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Beer.m; sourceTree = "<group>"; };
+		ECB0D0F017CD458700984499 /* Container.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Container.h; sourceTree = "<group>"; };
+		ECB0D0F117CD458700984499 /* Container.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Container.m; sourceTree = "<group>"; };
+		ECB0D0F317CD4E1600984499 /* ContainersDescription.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ContainersDescription.plist; sourceTree = "<group>"; };
+		ECB0D0F517CD502D00984499 /* ContainersVolume.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ContainersVolume.plist; sourceTree = "<group>"; };
+		ECC85E0117CC2E7800AEACFE /* beerglass.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beerglass.jpg; sourceTree = "<group>"; };
+		ECC85E0417CC354000AEACFE /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
+		ECC85E0517CC354000AEACFE /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
+		ECC85E0617CC354000AEACFE /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
+		ECC85E0717CC354000AEACFE /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
+		ECC85E0817CC354000AEACFE /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
+		ECC85E0917CC354000AEACFE /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
+		ECC85E0D17CC364100AEACFE /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC4C8F1817CBCBCD0028323C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ECC85E0E17CC364100AEACFE /* libxml2.dylib in Frameworks */,
+				EC4C8F1F17CBCBCD0028323C /* UIKit.framework in Frameworks */,
+				EC4C8F2117CBCBCD0028323C /* Foundation.framework in Frameworks */,
+				EC4C8F2317CBCBCD0028323C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC40453A17DBCF770038D95F /* Custom Elements */ = {
+			isa = PBXGroup;
+			children = (
+				EC40453B17DBCFA70038D95F /* BACBeerButton.h */,
+				EC40453C17DBCFA70038D95F /* BACBeerButton.m */,
+			);
+			name = "Custom Elements";
+			sourceTree = "<group>";
+		};
+		EC4C8F1217CBCBCD0028323C = {
+			isa = PBXGroup;
+			children = (
+				EC40453A17DBCF770038D95F /* Custom Elements */,
+				ECB0D0EF17CD454600984499 /* Container Class */,
+				ECC85E0317CC350B00AEACFE /* Hpple */,
+				ECA976F617CC00BB0009D844 /* Beer Class */,
+				EC4C8F2417CBCBCD0028323C /* BAC */,
+				EC4C8F1D17CBCBCD0028323C /* Frameworks */,
+				EC4C8F1C17CBCBCD0028323C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC4C8F1C17CBCBCD0028323C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C8F1B17CBCBCD0028323C /* BAC.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC4C8F1D17CBCBCD0028323C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C8F1E17CBCBCD0028323C /* UIKit.framework */,
+				EC4C8F2017CBCBCD0028323C /* Foundation.framework */,
+				EC4C8F2217CBCBCD0028323C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EC4C8F2417CBCBCD0028323C /* BAC */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C8F2D17CBCBCD0028323C /* AppDelegate.h */,
+				EC4C8F2E17CBCBCD0028323C /* AppDelegate.m */,
+				EC4C8F3617CBCBCD0028323C /* MainStoryboard.storyboard */,
+				EC4C8F3917CBCBCD0028323C /* ViewController.h */,
+				EC4C8F3A17CBCBCD0028323C /* ViewController.m */,
+				EC4C8F2517CBCBCD0028323C /* Supporting Files */,
+			);
+			path = BAC;
+			sourceTree = "<group>";
+		};
+		EC4C8F2517CBCBCD0028323C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC4C8F2617CBCBCD0028323C /* BAC-Info.plist */,
+				EC4C8F2717CBCBCD0028323C /* InfoPlist.strings */,
+				EC4C8F2A17CBCBCD0028323C /* main.m */,
+				EC4C8F2C17CBCBCD0028323C /* BAC-Prefix.pch */,
+				EC4C8F3017CBCBCD0028323C /* Default.png */,
+				EC4C8F3217CBCBCD0028323C /* Default@2x.png */,
+				EC4C8F3417CBCBCD0028323C /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ECA976F617CC00BB0009D844 /* Beer Class */ = {
+			isa = PBXGroup;
+			children = (
+				ECC85E0117CC2E7800AEACFE /* beerglass.jpg */,
+				ECA976F317CC00B10009D844 /* Beer.h */,
+				ECA976F417CC00B10009D844 /* Beer.m */,
+			);
+			name = "Beer Class";
+			sourceTree = "<group>";
+		};
+		ECB0D0EF17CD454600984499 /* Container Class */ = {
+			isa = PBXGroup;
+			children = (
+				ECB0D0F017CD458700984499 /* Container.h */,
+				ECB0D0F117CD458700984499 /* Container.m */,
+				ECB0D0F317CD4E1600984499 /* ContainersDescription.plist */,
+				ECB0D0F517CD502D00984499 /* ContainersVolume.plist */,
+			);
+			name = "Container Class";
+			sourceTree = "<group>";
+		};
+		ECC85E0317CC350B00AEACFE /* Hpple */ = {
+			isa = PBXGroup;
+			children = (
+				ECC85E0D17CC364100AEACFE /* libxml2.dylib */,
+				ECC85E0417CC354000AEACFE /* TFHpple.h */,
+				ECC85E0517CC354000AEACFE /* TFHpple.m */,
+				ECC85E0617CC354000AEACFE /* TFHppleElement.h */,
+				ECC85E0717CC354000AEACFE /* TFHppleElement.m */,
+				ECC85E0817CC354000AEACFE /* XPathQuery.h */,
+				ECC85E0917CC354000AEACFE /* XPathQuery.m */,
+			);
+			name = Hpple;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC4C8F1A17CBCBCD0028323C /* BAC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC4C8F3E17CBCBCD0028323C /* Build configuration list for PBXNativeTarget "BAC" */;
+			buildPhases = (
+				EC4C8F1717CBCBCD0028323C /* Sources */,
+				EC4C8F1817CBCBCD0028323C /* Frameworks */,
+				EC4C8F1917CBCBCD0028323C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BAC;
+			productName = BAC;
+			productReference = EC4C8F1B17CBCBCD0028323C /* BAC.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC4C8F1317CBCBCD0028323C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "Trent Callan";
+				TargetAttributes = {
+					EC4C8F1A17CBCBCD0028323C = {
+						DevelopmentTeam = G7KZQ2SCPA;
+					};
+				};
+			};
+			buildConfigurationList = EC4C8F1617CBCBCD0028323C /* Build configuration list for PBXProject "BAC" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EC4C8F1217CBCBCD0028323C;
+			productRefGroup = EC4C8F1C17CBCBCD0028323C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC4C8F1A17CBCBCD0028323C /* BAC */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC4C8F1917CBCBCD0028323C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C8F2917CBCBCD0028323C /* InfoPlist.strings in Resources */,
+				EC4C8F3117CBCBCD0028323C /* Default.png in Resources */,
+				EC4C8F3317CBCBCD0028323C /* Default@2x.png in Resources */,
+				EC4C8F3517CBCBCD0028323C /* Default-568h@2x.png in Resources */,
+				EC4C8F3817CBCBCD0028323C /* MainStoryboard.storyboard in Resources */,
+				ECC85E0217CC2E7800AEACFE /* beerglass.jpg in Resources */,
+				ECB0D0F417CD4E1600984499 /* ContainersDescription.plist in Resources */,
+				ECB0D0F617CD502D00984499 /* ContainersVolume.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC4C8F1717CBCBCD0028323C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4C8F2B17CBCBCD0028323C /* main.m in Sources */,
+				EC4C8F2F17CBCBCD0028323C /* AppDelegate.m in Sources */,
+				EC4C8F3B17CBCBCD0028323C /* ViewController.m in Sources */,
+				ECA976F517CC00B10009D844 /* Beer.m in Sources */,
+				ECC85E0A17CC354000AEACFE /* TFHpple.m in Sources */,
+				ECC85E0B17CC354000AEACFE /* TFHppleElement.m in Sources */,
+				ECC85E0C17CC354000AEACFE /* XPathQuery.m in Sources */,
+				ECB0D0F217CD458700984499 /* Container.m in Sources */,
+				EC40453D17DBCFA70038D95F /* BACBeerButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EC4C8F2717CBCBCD0028323C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC4C8F2817CBCBCD0028323C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EC4C8F3617CBCBCD0028323C /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC4C8F3717CBCBCD0028323C /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC4C8F3C17CBCBCD0028323C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EC4C8F3D17CBCBCD0028323C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC4C8F3F17CBCBCD0028323C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = G7KZQ2SCPA;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BAC/BAC-Prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
+				INFOPLIST_FILE = "BAC/BAC-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joamjoamjoam.BAC.da;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		EC4C8F4017CBCBCD0028323C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = G7KZQ2SCPA;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BAC/BAC-Prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
+				INFOPLIST_FILE = "BAC/BAC-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joamjoamjoam.BAC.da;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC4C8F1617CBCBCD0028323C /* Build configuration list for PBXProject "BAC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC4C8F3C17CBCBCD0028323C /* Debug */,
+				EC4C8F3D17CBCBCD0028323C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC4C8F3E17CBCBCD0028323C /* Build configuration list for PBXNativeTarget "BAC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC4C8F3F17CBCBCD0028323C /* Debug */,
+				EC4C8F4017CBCBCD0028323C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC4C8F1317CBCBCD0028323C /* Project object */;
+}

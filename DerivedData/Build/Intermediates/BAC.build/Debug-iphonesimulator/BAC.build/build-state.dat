@@ -1,0 +1,1156 @@
+TBAC
+v7
+r1
+cCheck dependencies
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005293D2240000000000000176
+t1385419300
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000524D970600000000000003B5
+t1380816646
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526953E900000000000001A0
+t1382634473
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000526953EB00000000005B82A0
+t1382634475
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526953EB0000000000445870
+t1382634475
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526953EC000000000088C680
+t1382634476
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526953F00000000001DB9910
+t1382634480
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000526953F800000000002B9F20
+t1382634488
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/HTMLparser.h
+c00000000524D974400000000000024B6
+t1380816708
+s9398
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX.h
+c00000000524D974400000000000010F5
+t1380816708
+s4341
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX2.h
+c00000000524D9744000000000000130E
+t1380816708
+s4878
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/dict.h
+c00000000524D97440000000000000732
+t1380816708
+s1842
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/encoding.h
+c00000000524D9744000000000000208C
+t1380816708
+s8332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/entities.h
+c00000000524D9744000000000000125F
+t1380816708
+s4703
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/globals.h
+c00000000524D9744000000000000393B
+t1380816708
+s14651
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/hash.h
+c00000000524D9744000000000000195C
+t1380816708
+s6492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/list.h
+c00000000524D97440000000000000D26
+t1380816708
+s3366
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/parser.h
+c00000000524D97440000000000009B27
+t1380816708
+s39719
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/threads.h
+c00000000524D9744000000000000073C
+t1380816708
+s1852
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/tree.h
+c00000000524D974500000000000093D3
+t1380816709
+s37843
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/valid.h
+c00000000524D97450000000000003536
+t1380816709
+s13622
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xlink.h
+c00000000524D974500000000000013B0
+t1380816709
+s5040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlIO.h
+c00000000524D97450000000000002977
+t1380816709
+s10615
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlautomata.h
+c00000000524D97450000000000000F74
+t1380816709
+s3956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlerror.h
+c00000000524D97450000000000008FC3
+t1380816709
+s36803
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlexports.h
+c00000000524D97450000000000000F50
+t1380816709
+s3920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlmemory.h
+c00000000524D97450000000000001739
+t1380816709
+s5945
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlregexp.h
+c00000000524D97450000000000001552
+t1380816709
+s5458
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlstring.h
+c00000000524D9745000000000000155D
+t1380816709
+s5469
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlversion.h
+c00000000524D97450000000000001F2B
+t1380816709
+s7979
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpath.h
+c00000000524D9745000000000000400E
+t1380816709
+s16398
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c00000000524D97450000000000004B99
+t1380816709
+s19353
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000524D97450000000000002338
+t1380816709
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c00000000526953FB000000000008D300
+t1382634491
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000524D9747000000000038ACB0
+t1380816711
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libxml2.dylib
+c00000000524D97470000000000265B40
+t1380816711
+s2513728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005362BD4D00000000000141F0
+t1398979917
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000524D97470000000000013500
+t1380816711
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000524D97470000000000033BA0
+t1380816711
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000524D9747000000000001CFB0
+t1380816711
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000524D9747000000000001B2B0
+t1380816711
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000526953FB00000000000632B0
+t1382634491
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000524D97470000000000008880
+t1380816711
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000526953FB0000000000015080
+t1382634491
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000524D974700000000000230E0
+t1380816711
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000524D9747000000000000E380
+t1380816711
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000524D97470000000000087200
+t1380816711
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000524D974700000000000171A0
+t1380816711
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000524D97470000000000039C10
+t1380816711
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000524D9747000000000000B0B0
+t1380816711
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000524D97470000000000167FE0
+t1380816711
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000526953FB00000000000106A0
+t1382634491
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000526953FB000000000001CE40
+t1382634491
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000524D97470000000000071040
+t1380816711
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000526953FB0000000000067A10
+t1382634491
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000524D9747000000000001BAD0
+t1380816711
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000526953FC0000000000088BA0
+t1382634492
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c00000000524D9758000000000000B870
+t1380816728
+s47216
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005269545C0000000000005004
+t1382634588
+s20484
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/AppDelegate.h
+c00000000521B944D0000000000000113
+t1377539149
+s275
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/AppDelegate.m
+c00000000521B944D00000000000007D5
+t1377539149
+s2005
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/BAC-Info.plist
+c00000000521B944D00000000000004D7
+t1377539149
+s1239
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/BAC-Prefix.pch
+c00000000521B944D0000000000000135
+t1377539149
+s309
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/ViewController.h
+c000000005220F307000000000000084D
+t1377891079
+s2125
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/ViewController.m
+c000000005387F2C80000000000004378
+t1401418440
+s17272
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/en.lproj/InfoPlist.strings
+c00000000521B944D000000000000002D
+t1377539149
+s45
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/en.lproj/MainStoryboard.storyboard
+c00000000536FBF4F00000000000071D0
+t1399832399
+s29136
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/main.m
+c00000000521B944D000000000000014E
+t1377539149
+s334
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BACBeerButton.h
+c00000000522B982700000000000000CA
+t1378588711
+s202
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BACBeerButton.m
+c00000000522B9F97000000000000022D
+t1378590615
+s557
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Beer.h
+c00000000522E01C30000000000000243
+t1378746819
+s579
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Beer.m
+c00000000522DEEC0000000000000065E
+t1378741952
+s1630
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Container.h
+c00000000521D24D80000000000000169
+t1377641688
+s361
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Container.m
+c00000000521D265B0000000000000226
+t1377642075
+s550
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/ContainersDescription.plist
+c0000000053768A3500000000000001D0
+t1400277557
+s464
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/ContainersVolume.plist
+c0000000053768A2F0000000000000156
+t1400277551
+s342
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o
+t1399832403
+s64864
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BAC.LinkFileList
+c00000000536FBF4F0000000000000578
+t1399832399
+s1400
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o
+t1399832403
+s46700
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o
+t1399832403
+s20716
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o
+t1399832403
+s9852
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o
+t1399832403
+s15268
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o
+t1399832403
+s28728
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o
+t1401418441
+s143804
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o
+t1399832403
+s23720
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o
+t1399832403
+s3288
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.pch
+t1399832402
+s5342488
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app
+t1401418441
+s408
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app.dSYM
+t1401418441
+s102
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC
+t1401418441
+s116772
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersDescription.plist
+t1401418219
+s216
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersVolume.plist
+t1401418219
+s78
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Default-568h@2x.png
+t1399832403
+s18594
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Default.png
+t1399832403
+s6540
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Default@2x.png
+t1399832403
+s16107
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Info.plist
+t1399832399
+s819
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/PkgInfo
+t1399832399
+s8
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/beerglass.jpg
+t1399832403
+s4029
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/en.lproj/InfoPlist.strings
+t1399832403
+s42
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/en.lproj/MainStoryboard.storyboardc
+t1399832404
+s170
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHpple.h
+c0000000050B954EC0000000000000775
+t1354323180
+s1909
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHpple.m
+c0000000050B954EC0000000000000B0B
+t1354323180
+s2827
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.h
+c0000000050B954EC0000000000000F45
+t1354323180
+s3909
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.m
+c0000000050B954EC00000000000014D7
+t1354323180
+s5335
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/XPathQuery.h
+c0000000050B954EC0000000000000114
+t1354323180
+s276
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/XPathQuery.m
+c0000000050B954EC00000000000015F1
+t1354323180
+s5617
+
+N/Users/joamjoamjoam/Documents/Xcode Projects/BAC/beerglass.jpg
+c00000000521BF6E50000000000000FBD
+t1377564389
+s4029
+
+N/usr/lib/libSystem.B.dylib
+c000000005362BD35000000000000E6D0
+t1398979893
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005362BD4D0000000000012A00
+t1398979917
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005362BD20000000000002E320
+t1398979872
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005362BD350000000000021860
+t1398979893
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005362BD4C000000000001B620
+t1398979916
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005362BD4C00000000000BD920
+t1398979916
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005362BD4D000000000000A120
+t1398979917
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005362BD4D000000000001D550
+t1398979917
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005362BD4B0000000000014EE0
+t1398979915
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005362BD4F0000000000010380
+t1398979919
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005362BD4F000000000000C4C0
+t1398979919
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005362BD4D00000000000357A0
+t1398979917
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005362BD4D000000000000C070
+t1398979917
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005362BD350000000000168D00
+t1398979893
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005362BD4C0000000000010630
+t1398979916
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005362BD4E000000000001DF10
+t1398979918
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005362BD350000000000075B00
+t1398979893
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005362BD35000000000007CCE0
+t1398979893
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005362BD3500000000000766C0
+t1398979893
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005362BD4D0000000000044DC0
+t1398979917
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005362BD350000000000021FA0
+t1398979893
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005362BD4D000000000002D920
+t1398979917
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005362BD4D000000000001E570
+t1398979917
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005362BD40000000000000CC70
+t1398979904
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005362BD45000000000000C3F0
+t1398979909
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005362BD4D00000000000199F0
+t1398979917
+s104944
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/AppDelegate.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/ViewController.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/main.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BACBeerButton.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Beer.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Container.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/TFHpple.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/TFHppleElement.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/XPathQuery.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/AppDelegate.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/ViewController.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/main.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BACBeerButton.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Beer.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Container.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/TFHpple.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/TFHppleElement.m
+r0
+
+CBuild AST from /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/XPathQuery.m
+r0
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies957e3222099ab941^632af922099ab941^---0#1#1#--18"Check dependencies36"A4F22B1A-5BB2-4C7F-9F86-5E7C6FB1806F-
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525202.510656
+e421525203.102137
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/AppDelegate.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/AppDelegate.m202"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o BAC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1fd782d2f61fb941^53251ad3f61fb941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BAC/AppDelegate.m0000000000000000^3832"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o BAC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/AppDelegate.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o36"89A53977-3F2D-490C-A9F6-54D433A05231-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BACBeerButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525203.156467
+e421525203.207815
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BACBeerButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BACBeerButton.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BACBeerButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/BACBeerButton.m202"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o BACBeerButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler483128d3f61fb941^f43335d3f61fb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BACBeerButton.m0000000000000000^3836"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o BACBeerButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BACBeerButton.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o36"82353086-54F9-48EA-BE4F-171680C6BFC7-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BACBeerButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Beer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525202.512425
+e421525203.115489
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Beer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Beer.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Beer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/Beer.m184"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o Beer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler246183d2f61fb941^15911dd3f61fb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/Beer.m0000000000000000^3782"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o Beer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Beer.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o36"311D1D88-281C-49D4-8AE6-E59660E11601-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Beer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Container.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525203.146745
+e421525203.179639
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Container.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Container.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Container.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/Container.m194"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o Container.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2db225d3f61fb941^05fd2dd3f61fb941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/Container.m0000000000000000^3812"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o Container.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Container.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o36"EF1E97A8-02C4-4A3D-B2D5-E90DC04B2C44-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Container.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525203.062981
+e421525203.146038
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHpple.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHpple.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHpple.h
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.h
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/XPathQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHpple.m190"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler103e10d3f61fb941^cc6325d3f61fb941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/TFHpple.m0000000000000000^3800"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/TFHpple.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o36"CFC26DA6-F46A-413E-9859-2918C700D8E9-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/TFHpple.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525203.102664
+e421525203.163929
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.m204"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdb6a1ad3f61fb941^e8f729d3f61fb941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/TFHppleElement.m0000000000000000^3842"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/TFHppleElement.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o36"CBC1AA97-39D1-4F71-9419-B03E90388C07-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/TFHppleElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423111241.314603
+e423111241.421229
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/ViewController.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/ViewController.h
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Beer.h
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Container.h
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHpple.h
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/TFHppleElement.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/ViewController.m208"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o BAC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler37a950492a38b941^8dd46b492a38b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BAC/ViewController.m0000000000000000^3850"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o BAC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/ViewController.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o36"911F80BD-1950-4A54-8A7F-7D7CECAD6AF2-
+b3D4AEF8E-64BB-402B-903E-0C3DD9A7E006
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525203.115793
+e421525203.190326
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/XPathQuery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/XPathQuery.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/XPathQuery.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/threads.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/HTMLparser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpath.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/XPathQuery.m196"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5cc61dd3f61fb941^2cbb30d3f61fb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/XPathQuery.m0000000000000000^3818"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/XPathQuery.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o36"3FAF15B4-5EA8-4783-9875-48C004514FD6-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/XPathQuery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525202.510219
+e421525203.062726
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/main.m
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/main.m188"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o BAC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler65c782d2f61fb941^595010d3f61fb941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BAC/main.m0000000000000000^3790"CompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o BAC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -include /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.dia -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/main.m -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o36"8DC2295F-6C12-4D4E-9E77-84A68A78E023-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileC DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/en.lproj/MainStoryboard.storyboard
+s421525203.698429
+e421525204.779647
+r1
+xCompileStoryboard
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/en.lproj/MainStoryboard.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard BAC/en.lproj/MainStoryboard.storyboard56"CompileStoryboard BAC/en.lproj/MainStoryboard.storyboarde4dcb2d3f61fb941^079ac7d4f61fb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BAC/en.lproj/MainStoryboard.storyboard0000000000000000^879"CompileStoryboard BAC/en.lproj/MainStoryboard.storyboard    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/en.lproj/MainStoryboard.storyboardc /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/en.lproj/MainStoryboard.storyboard36"11B3EA0A-933C-43CA-B1A5-ACF8D097E167-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCompileStoryboard /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/en.lproj/MainStoryboard.storyboard
+r0
+
+CCopyPlistFile /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersDescription.plist ContainersDescription.plist
+s423111019.157520
+e423111019.188408
+r1
+xCopyPlistFile
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersDescription.plist
+xContainersDescription.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Copy ContainersDescription.plist108"CopyPlistFile Products/Debug-iphonesimulator/BAC.app/ContainersDescription.plist ContainersDescription.plist8c67286b2938b941^9f3c306b2938b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/ContainersDescription.plist0000000000000000^531"CopyPlistFile Products/Debug-iphonesimulator/BAC.app/ContainersDescription.plist ContainersDescription.plist    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app -- ContainersDescription.plist36"995220B8-55BD-468C-8829-B81139EC634B-
+b597E8363-66E4-4841-BF0E-FAED0798779A
+
+CCopyPlistFile /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersVolume.plist ContainersVolume.plist
+s423111019.157677
+e423111019.190547
+r1
+xCopyPlistFile
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersVolume.plist
+xContainersVolume.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Copy ContainersVolume.plist98"CopyPlistFile Products/Debug-iphonesimulator/BAC.app/ContainersVolume.plist ContainersVolume.plist4370286b2938b941^7dcb306b2938b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/ContainersVolume.plist0000000000000000^516"CopyPlistFile Products/Debug-iphonesimulator/BAC.app/ContainersVolume.plist ContainersVolume.plist    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app -- ContainersVolume.plist36"CC972156-57B3-46C4-833F-C1AAE68ED2AA-
+b597E8363-66E4-4841-BF0E-FAED0798779A
+
+CCopyPlistFile /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersDescription.plist ContainersDescription.plist
+r0
+
+CCopyPlistFile /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/ContainersVolume.plist ContainersVolume.plist
+r0
+
+CCopyStringsFile /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/en.lproj/InfoPlist.strings BAC/en.lproj/InfoPlist.strings
+s421525203.695794
+e421525203.698248
+r1
+xCopyStringsFile
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/en.lproj/InfoPlist.strings
+xBAC/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy BAC/en.lproj/InfoPlist.strings112"CopyStringsFile Products/Debug-iphonesimulator/BAC.app/en.lproj/InfoPlist.strings BAC/en.lproj/InfoPlist.strings7139b2d3f61fb941^0ec0b2d3f61fb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BAC/en.lproj/InfoPlist.strings0000000000000000^588"CopyStringsFile Products/Debug-iphonesimulator/BAC.app/en.lproj/InfoPlist.strings BAC/en.lproj/InfoPlist.strings    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/en.lproj -- BAC/en.lproj/InfoPlist.strings36"36CBD9FC-B5EE-4E55-8DF9-52BEE00B9B58-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCopyStringsFile /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/en.lproj/InfoPlist.strings BAC/en.lproj/InfoPlist.strings
+r0
+
+CCpResource BAC/Default-568h@2x.png Products/Debug-iphonesimulator/BAC.app/Default-568h@2x.png
+s421525203.696805
+e421525203.738503
+r1
+xCpResource
+xBAC/Default-568h@2x.png
+xProducts/Debug-iphonesimulator/BAC.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Products/Debug-iphonesimulator/BAC.app/Default-568h@2x.png93"CpResource BAC/Default-568h@2x.png Products/Debug-iphonesimulator/BAC.app/Default-568h@2x.png4372b2d3f61fb941^cf11bdd3f61fb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Default-568h@2x.png003438b5dcffdf42^622"CpResource BAC/Default-568h@2x.png Products/Debug-iphonesimulator/BAC.app/Default-568h@2x.png    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/Default-568h@2x.png /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app36"09046EE3-7771-4577-B0B5-2B002721CB44-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCpResource BAC/Default.png Products/Debug-iphonesimulator/BAC.app/Default.png
+s421525203.695941
+e421525203.736391
+r1
+xCpResource
+xBAC/Default.png
+xProducts/Debug-iphonesimulator/BAC.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy Products/Debug-iphonesimulator/BAC.app/Default.png77"CpResource BAC/Default.png Products/Debug-iphonesimulator/BAC.app/Default.pnge449b2d3f61fb941^9484bcd3f61fb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Default.png003438b5dcffdf42^598"CpResource BAC/Default.png Products/Debug-iphonesimulator/BAC.app/Default.png    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/Default.png /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app36"CAD4A9E9-55DE-477B-B71A-27FB8111BECA-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCpResource BAC/Default@2x.png Products/Debug-iphonesimulator/BAC.app/Default@2x.png
+s421525203.696169
+e421525203.738133
+r1
+xCpResource
+xBAC/Default@2x.png
+xProducts/Debug-iphonesimulator/BAC.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy Products/Debug-iphonesimulator/BAC.app/Default@2x.png83"CpResource BAC/Default@2x.png Products/Debug-iphonesimulator/BAC.app/Default@2x.png2a55b2d3f61fb941^98fbbcd3f61fb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Default@2x.png003438b5dcffdf42^607"CpResource BAC/Default@2x.png Products/Debug-iphonesimulator/BAC.app/Default@2x.png    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/Default@2x.png /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app36"16E2C9ED-B165-458C-9BC2-3B07D6ABA1A3-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CCpResource beerglass.jpg Products/Debug-iphonesimulator/BAC.app/beerglass.jpg
+s421525203.736612
+e421525203.737346
+r1
+xCpResource
+xbeerglass.jpg
+xProducts/Debug-iphonesimulator/BAC.app/beerglass.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy Products/Debug-iphonesimulator/BAC.app/beerglass.jpg77"CpResource beerglass.jpg Products/Debug-iphonesimulator/BAC.app/beerglass.jpg7ba1bcd3f61fb941^4cc3bcd3f61fb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/Products/Debug-iphonesimulator/BAC.app/beerglass.jpg003438b5dcffdf42^596"CpResource beerglass.jpg Products/Debug-iphonesimulator/BAC.app/beerglass.jpg    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/beerglass.jpg /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app36"5344D41A-F182-42B3-92B7-465967F203AA-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CGenerateDSYMFile /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app.dSYM /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC
+s423111241.457521
+e423111241.507346
+r1
+xGenerateDSYMFile
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app.dSYM
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app.dSYM103"GenerateDSYMFile Products/Debug-iphonesimulator/BAC.app.dSYM Products/Debug-iphonesimulator/BAC.app/BAC622e75492a38b941^ace281492a38b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/Products/Debug-iphonesimulator/BAC.app.dSYM/0000000000000000^647"GenerateDSYMFile Products/Debug-iphonesimulator/BAC.app.dSYM Products/Debug-iphonesimulator/BAC.app/BAC    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app.dSYM36"536039D8-CFFE-4BEF-BCC8-E1A3E5BE4BEC-
+b3D4AEF8E-64BB-402B-903E-0C3DD9A7E006
+
+CGenerateDSYMFile /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app.dSYM /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC
+r0
+
+CLd /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC normal i386
+s423111241.423480
+e423111241.456556
+r1
+xLd
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC
+xnormal
+xi386
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BAC.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/main.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/AppDelegate.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/ViewController.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Beer.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHpple.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/TFHppleElement.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/XPathQuery.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/Container.o
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BACBeerButton.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libxml2.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC57"Ld Products/Debug-iphonesimulator/BAC.app/BAC normal i386317c6c492a38b941^2ae274492a38b941^---0#0#1#--1423"Ld Products/Debug-iphonesimulator/BAC.app/BAC normal i386    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator -filelist /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BAC.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -lxml2 -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/Objects-normal/i386/BAC_dependency_info.dat -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC36"BD647C44-744E-47DA-8892-7BD59EE815A5-
+b3D4AEF8E-64BB-402B-903E-0C3DD9A7E006
+
+CLd /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/BAC normal i386
+r0
+
+CProcessInfoPlistFile /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Info.plist /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/BAC-Info.plist
+s421525199.619854
+e421525199.716179
+r1
+xProcessInfoPlistFile
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Info.plist
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/BAC-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Process /Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/BAC-Info.plist89"ProcessInfoPlistFile Products/Debug-iphonesimulator/BAC.app/Info.plist BAC/BAC-Info.plist2481b6cff61fb941^950dbbcff61fb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BAC/BAC-Info.plist0000000000000000^715"ProcessInfoPlistFile Products/Debug-iphonesimulator/BAC.app/Info.plist BAC/BAC-Info.plist    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/BAC-Info.plist -genpkginfo /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Info.plist36"D652ADE0-7B4C-4178-8FD7-EE60D715C467-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CProcessInfoPlistFile /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app/Info.plist /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/BAC/BAC-Info.plist
+r0
+
+CProcessPCH /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/BAC/Index/PrecompiledHeaders/BAC-Prefix-fuerxmiffomhvlecnnloxnytuswy_ast/BAC-Prefix.pch.pch BAC/BAC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.pch BAC/BAC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421525199.717181
+e421525202.509279
+r1
+xProcessPCH
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.pch
+xBAC/BAC-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joamjoamjoam/Documents/Xcode Projects/BAC/BAC/BAC-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile BAC/BAC-Prefix.pch207"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.pch BAC/BAC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5ebcb7cff61fb941^676282d2f61fb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/joamjoamjoam/Documents/Xcode%20Projects/BAC/BAC/BAC-Prefix.pch0000000000000000^3682"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.pch BAC/BAC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-generated-files.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-own-target-headers.hmap -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-all-target-headers.hmap -iquote /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/BAC-project-headers.hmap -iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources/i386 -I/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/BAC.build/Debug-iphonesimulator/BAC.build/DerivedSources -F/Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator --serialize-diagnostics /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.dia -MMD -MT dependencies -MF /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.d -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/BAC/BAC-Prefix.pch -o /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-fqlycypgmtolwzaueboafddkwtoa/BAC-Prefix.pch.pch36"BD4E259D-632C-400C-9835-2F1CDE6B3F86-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CProcessPCH /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/DerivedData/BAC/Index/PrecompiledHeaders/BAC-Prefix-brvztdyzjzpcuxdkicsfskhastqw_ast/BAC-Prefix.pch.pch BAC/BAC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/DerivedData/Build/Intermediates/PrecompiledHeaders/BAC-Prefix-gasoibtkfvyinofafyjvhwdimgnx/BAC-Prefix.pch.pch BAC/BAC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app
+s421525204.780959
+e421525204.784861
+r1
+xTouch
+x/Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/joamjoamjoam/Documents/Xcode Projects/BAC/Products/Debug-iphonesimulator/BAC.app44"Touch Products/Debug-iphonesimulator/BAC.app3cfac7d4f61fb941^d0eec8d4f61fb941^---0#0#1#--409"Touch Products/Debug-iphonesimulator/BAC.app    cd "/Users/joamjoamjoam/Documents/Xcode Projects/BAC"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/joamjoamjoam/Documents/Xcode\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app36"0525033A-35EB-428E-A6A6-AB2571E06F24-
+b1ECC8CC4-F51F-4894-998A-C4BE46A26FCA
+
+CTouch /Users/joamjoamjoam/Documents/Xcode\ Projects/Obj\ -\ C\ Projects/BAC/Products/Debug-iphonesimulator/BAC.app
+r0
+

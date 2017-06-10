@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Double Shot (70 mL)</string>
+	<string>Single Shot (35 mL)</string>
+	<string>Bottle (12 oz)</string>
+	<string>Cocktail Glass (6 oz)</string>
+	<string>Large Cocktail Glass (12 oz)</string>
+	<string>Small Stein (16.9 oz)</string>
+	<string>Large Stein (34 oz)</string>
+</array>
+</plist>

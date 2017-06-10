@@ -1,11 +1,12 @@
 # Blood-Alcohol-Content-Calculator
 
+State: Alpha
+
 DISCLAIMER: This App is for entertainment purposes only. This app should NOT be used as a deciding factor for when to drive after drinking. Use at your own risk. I am not liable for any bad decisions made while using this app.
 
 Simple tool to evaluate your ability to drive and calculate your Blood Alcohol Content.
 
 Features
-
 Calculate current BAC 
 Evaluates your ability to drive by comparing your BAC to the legal limit
 Estimates the time you must wait to legally drive

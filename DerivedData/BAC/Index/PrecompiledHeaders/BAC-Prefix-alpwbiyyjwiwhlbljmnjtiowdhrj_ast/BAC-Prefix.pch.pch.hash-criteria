@@ -1,0 +1,30 @@
+-x
+objective-c
+-arch
+arm64
+-fretain-comments-from-system-headers
+-std=gnu99
+-fobjc-arc
+-gmodules
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+-miphoneos-version-min=5.0
+-g
+-fembed-bitcode-marker
+-iquote
+-iquote
+-iquote/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include/libxml2
+-I/Users/joamjoamjoam/Documents/Xcode Projects/Obj - C Projects/BAC/Products/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/usr/include/libxml2
+-F/Users/joamjoamjoam/Documents/Xcode Projects/Obj - C Projects/BAC/Products/Debug-iphoneos
+-ferror-limit=10
+-working-directory=/Users/joamjoamjoam/Documents/Xcode Projects/Obj - C Projects/BAC
+-Xclang
+-detailed-preprocessing-record
+aarch64-apple-darwin14.5.0
+"4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.72)"
+SDK_PRODUCT_BUILD_VERSION=9B176
+9B176
